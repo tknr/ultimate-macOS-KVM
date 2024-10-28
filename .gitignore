@@ -54,3 +54,14 @@ resources/.nrsMode
 resources/BaseSystem.dmg
 resources/BaseSystem.img
 testVM/
+
+argparse
+datetime
+json
+os
+platform
+re
+resources/script_store/hyperchromiac/
+subprocess
+time
+env/
